@@ -3,8 +3,11 @@ import React from 'react'
 function CartIcon() {
   return (
     <div>
-        <i className='fa fa-shoping-cart'></i>
-      <span className='badge badge-danger'>2</span>
+       
+      
+       <button type="button" class="btn btn-danger">
+  <i className='fa fa-shopping-cart'> <span> 4</span></i>
+</button>
     </div>
   )
 }

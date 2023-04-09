@@ -31,8 +31,9 @@ function Header() {
       </ul>
       
     </div>
+    <CartIcon/>
   </div>
-  <CartIcon/>
+ 
 </nav>
 
 
